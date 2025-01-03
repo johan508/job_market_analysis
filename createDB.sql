@@ -1,3 +1,5 @@
+-- this code will create a database and a table to save the data pulled from Adzuna API
+
 CREATE DATABASE job_data_DB;
 
 use job_data_DB;
