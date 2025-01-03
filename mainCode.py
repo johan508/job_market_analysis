@@ -1,4 +1,6 @@
 # Developed by Han Zhang
+# This code will pull raw data from Adzua, parse data from json into dataframe and save data into SQL Server database
+
 import pyodbc
 import requests
 import math
