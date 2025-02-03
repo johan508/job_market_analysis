@@ -2,7 +2,7 @@
 This project is created by Han Zhang.  
 
 The dataflow is:     
-Adzuna API --> Exract in Python --> Save raw data into SQL Server --> Check & Modify error in SQL Server --> Extract into Power Query (transform) --> Report in Power BI   
+Adzuna API --> Exract in Python --> Save into SQL Server --> Check & Modify error in SQL Server --> Extract into Power Query (transform) --> Report in Power BI   
 
 The aim is to investigate the job supplies and categories on the market of selected cities in Canada (Toronto, Montreal, Quebec City, Vancouver, Calgary, Halifax, Sherbrooke) in a certain period based on a third party job platform - Adzuna. It's an ongoing project, the raw data pulled from Adzuna will be updated on every Friday (started from 2024-11-22). It's a "trial and error" project, which means the algorithm will probably be adjusted and updated based on the results accordingly. 
 
