@@ -8,4 +8,5 @@ The aim is to investigate the job supplies and categories on the market of selec
 
 Jobs will be categorized into several groups, for example, Agriculture, Customer Services, Financial Services, IT, Education, etc. (there are 30 categories in Adzuna). The results will show the percentage of each category in a city, say, in the past week, among the 2000 random samples (job posts) from Montreal, 40% of the job falls into customer service; 30% falls into financial services; 20% falls into IT, etc. 
 
-For the moment this project is conducted by myself, so, it could go very slowly, or even wrong. But, at least I'm doing something fun ...
+For the moment this project is conducted by myself, so, it could go very slowly, or even wrong. But, at least I'm doing something fun ...  
+Report is published here: https://zhanghan.ca/project_4.html  
